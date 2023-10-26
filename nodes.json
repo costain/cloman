@@ -1,0 +1,66 @@
+{
+	"nodes": [
+		{
+			"id": "A",
+			"group": 1,
+			"label": "Class A",
+			"level": 1,
+			"method": "getPeople"
+		},
+		{
+			"id": "B",
+			"group": 1,
+			"label": "Class B",
+			"level": 1,
+			"method": "getPeople"
+		},
+		{
+			"id": "C",
+			"group": 1,
+			"label": "Class C",
+			"level": 1,
+			"method": "getPeople"
+		},
+		{
+			"id": "D",
+			"group": 2,
+			"label": "Class D",
+			"level": 1,
+			"method": "getEmployee"
+		},
+		{
+			"id": "E",
+			"group": 2,
+			"label": "Class E",
+			"level": 1,
+			"method": "getEmployee"
+		}
+	],
+	"links": [
+		{
+			"target": "B",
+			"source": "A",
+			"strength": 0.7
+		},
+		{
+			"target": "B",
+			"source": "C",
+			"strength": 0.7
+		},
+		{
+			"target": "D",
+			"source": "A",
+			"strength": 0.7
+		},
+		{
+			"target": "E",
+			"source": "D",
+			"strength": 0.7
+		},
+		{
+			"target": "E",
+			"source": "A",
+			"strength": 0.7
+		}
+	]
+}
