@@ -204,21 +204,6 @@
 			"target": "E",
 			"source": "D",
 			"strength": 0.7
-		},
-		{
-			"target": "F",
-			"source": "K",
-			"strength": 0.7
-		},{
-			"target": "K",
-			"source": "Z",
-			"strength": 0.7
-		},
-	
-		{
-			"target": "G",
-			"source": "H",
-			"strength": 0.7
 		}
 	]
 }
