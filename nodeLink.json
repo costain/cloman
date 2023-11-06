@@ -204,34 +204,6 @@
 			"target": "E",
 			"source": "D",
 			"strength": 0.7
-		},
-		{
-			"id": "F",
-			"group": 3,
-			"label": "Class F",
-			"level": 1,
-			"method": "getNum"
-		},
-		{
-			"id": "G",
-			"group": 3,
-			"label": "Class Z",
-			"level": 1,
-			"method": "getNum"
-		},
-		{
-			"id": "K",
-			"group": 3,
-			"label": "Class K",
-			"level": 1,
-			"method": "getNum"
-		},
-		{
-			"id": "G",
-			"group": 4,
-			"label": "Class G",
-			"level": 1,
-			"method": "getSalary"
 		}
 	]
 }
