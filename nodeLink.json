@@ -1,0 +1,214 @@
+{
+	"nodes": [
+		{
+			"id": "A",
+			"group": 1,
+			"label": "Class A",
+			"level": 1,
+			"method": "getPeople"
+		},
+		{
+			"id": "B",
+			"group": 1,
+			"label": "Class B",
+			"level": 1,
+			"method": "getPeople"
+		},
+		{
+			"id": "C",
+			"group": 1,
+			"label": "Class C",
+			"level": 1,
+			"method": "getPeople"
+		},
+		{
+			"id": "D",
+			"group": 2,
+			"label": "Class D",
+			"level": 1,
+			"method": "getEmployee"
+		},
+		{
+			"id": "E",
+			"group": 2,
+			"label": "Class E",
+			"level": 1,
+			"method": "getEmployee"
+		},
+		{
+			"id": "F",
+			"group": 3,
+			"label": "Class F",
+			"level": 1,
+			"method": "getNum"
+		},
+		{
+			"id": "G",
+			"group": 3,
+			"label": "Class Z",
+			"level": 1,
+			"method": "getNum"
+		},
+		{
+			"id": "K",
+			"group": 3,
+			"label": "Class K",
+			"level": 1,
+			"method": "getNum"
+		},
+		{
+			"id": "G",
+			"group": 4,
+			"label": "Class G",
+			"level": 1,
+			"method": "getSalary"
+		},
+		{
+			"id": "H",
+			"group": 4,
+			"label": "Class H",
+			"level": 1,
+			"method": "getSalary"
+		},
+		{
+			"id": "I",
+			"group": 5,
+			"label": "Class I",
+			"level": 1,
+			"method": "getPaper"
+		},
+		{
+			"id": "J",
+			"group": 6,
+			"label": "Class J",
+			"level": 1,
+			"method": "getAll"
+		},
+		{
+			"id": "L",
+			"group": 6,
+			"label": "Class L",
+			"level": 1,
+			"method": "getAll"
+		},
+		{
+			"id": "M",
+			"group": 6,
+			"label": " Class M",
+			"level": 1,
+			"method": "getAll"
+		},
+		{
+			"id": "N",
+			"group": 5,
+			"label": "Class N",
+			"level": 1,
+			"method": "getPaper"
+		},
+		{
+			"id": "O",
+			"group": 6,
+			"label": "Class O",
+			"level": 1,
+			"method": "getAll"
+		},
+		{
+			"id": "P",
+			"group": 7,
+			"label": "Class P",
+			"level": 1,
+			"method": "populateTree"
+		},
+		{
+			"id": "Q",
+			"group": 7,
+			"label": "Class Q",
+			"level": 1,
+			"method": "populateTree"
+		},
+		{
+			"id": "R",
+			"group": 8,
+			"label": "Class R",
+			"level": 1,
+			"method": "sendMail"
+		},
+		{
+			"id": "S",
+			"group": 8,
+			"label": "Class S",
+			"level": 1,
+			"method": "sendMail"
+		},
+		{
+			"id": "T",
+			"group": 9,
+			"label": "Class T",
+			"level": 1,
+			"method": "receiveData"
+		},
+		{
+			"id": "U",
+			"group": 5,
+			"label": "Class U",
+			"level": 1,
+			"method": "getPaper"
+		},
+		{
+			"id": "V",
+			"group": 10,
+			"label": "Class V",
+			"level": 1,
+			"method": "jsonHelper"
+		},
+		{
+			"id": "W",
+			"group": 5,
+			"label": "Class W",
+			"level": 1,
+			"method": "getPaper"
+		},
+		{
+			"id": "X",
+			"group": 10,
+			"label": "Class X",
+			"level": 1,
+			"method": "jsonHelper"
+		},
+		{
+			"id": "Y",
+			"group": 9,
+			"label": "Class Y",
+			"level": 1,
+			"method": "receiveData"
+		}
+		
+	],
+	"links": [
+		{
+			"target": "B",
+			"source": "A",
+			"strength": 0.7
+		},
+		{
+			"target": "B",
+			"source": "C",
+			"strength": 0.7
+		},
+		{
+			"target": "D",
+			"source": "A",
+			"strength": 0.7
+		},
+		{
+			"target": "E",
+			"source": "D",
+			"strength": 0.7
+		},
+		{
+			"target": "E",
+			"source": "A",
+			"strength": 0.7
+		}
+	]
+}
