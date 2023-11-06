@@ -34,20 +34,6 @@
 			"label": "Class E",
 			"level": 1,
 			"method": "getEmployee"
-		},
-		{
-			"id": "F",
-			"group": 3,
-			"label": "Class F",
-			"level": 1,
-			"method": "getNum"
-		},
-		{
-			"id": "G",
-			"group": 3,
-			"label": "Class Z",
-			"level": 1,
-			"method": "getNum"
 		}
 	]
 }
