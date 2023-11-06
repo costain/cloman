@@ -214,11 +214,7 @@
 			"source": "Z",
 			"strength": 0.7
 		},
-		{
-			"target": "B",
-			"source": "C",
-			"strength": 0.7
-		},
+	
 		{
 			"target": "G",
 			"source": "H",
