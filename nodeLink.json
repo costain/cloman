@@ -219,42 +219,6 @@
 			"target": "G",
 			"source": "H",
 			"strength": 0.7
-		},
-		{
-			"target": "U",
-			"source": "I",
-			"strength": 0.7
-		},
-		{
-			"target": "I",
-			"source": "J",
-			"strength": 0.7
-		},
-	
-		{
-			"target": "I",
-			"source": "N",
-			"strength": 0.7
-		},
-		{
-			"target": "P",
-			"source": "Q",
-			"strength": 0.7
-		},
-		{
-			"target": "R",
-			"source": "S",
-			"strength": 0.7
-		},
-		{
-			"target": "T",
-			"source": "Y",
-			"strength": 0.7
-		},
-		{
-			"target": "X",
-			"source": "V",
-			"strength": 0.7
 		}
 	]
 }
